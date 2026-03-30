@@ -11,14 +11,10 @@
                         <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
                              alt=""
                              class="size-16 rounded-full outline-1 -outline-offset-1 outline-white/10" />
-                        <div>
-                            <h3 class="header-two-styling">
-                                Leslie Alexander
-                            </h3>
-                            <p class="paragraph-styling">
-                                Co-Founder / CEO
-                            </p>
-                        </div>
+                            <x-hall-of-fame-card
+                                pioneer="Leslie Alexander"
+                                work="Co-Founder / CEO">
+                            </x-hall-of-fame-card>
                     </div>
                 </li>
 
@@ -28,14 +24,8 @@
                             <img src="/images/Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png"
                                  alt=""
                                  class="size-16 rounded-full outline-1 -outline-offset-1 outline-white/10" />
-                            <div>
-                                <h3 class="header-two-styling">
-                                    Ada Lovelace
-                                </h3>
-                                <p class="paragraph-styling">
-                                    First Computer Programmer
-                                </p>
-                            </div>
+                            <x-hall-of-fame-card>
+                            </x-hall-of-fame-card>
                         </div>
                     </a>
                 </li>
@@ -45,14 +35,10 @@
                         <img src="/images/paulineVos.jpg"
                              alt=""
                              class="size-16 rounded-full outline-1 -outline-offset-1 outline-white/10" />
-                        <div>
-                            <h3 class="header-two-styling">
-                                Pauline Vos
-                            </h3>
-                            <p class="paragraph-styling">
-                                Software Engineer @ MongoDB and Conference Speaker
-                            </p>
-                        </div>
+                        <x-hall-of-fame-card
+                            pioneer="Pauline Vos"
+                            work="Software Engineer @ MongoDB and Conference Speaker">
+                        </x-hall-of-fame-card>
                     </div>
                 </li>
                 <li>
@@ -60,14 +46,10 @@
                         <img src="https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
                              alt=""
                              class="size-16 rounded-full outline-1 -outline-offset-1 outline-white/10" />
-                        <div>
-                            <h3 class="header-two-styling">
-                                Lindsay Walton
-                            </h3>
-                            <p class="paragraph-styling">
-                                Front-end Developer
-                            </p>
-                        </div>
+                        <x-hall-of-fame-card
+                            pioneer="Lindsay Walton"
+                            work="Front-end Developer">
+                        </x-hall-of-fame-card>
                     </div>
                 </li>
                 <li>
@@ -75,14 +57,10 @@
                         <img src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
                              alt=""
                              class="size-16 rounded-full outline-1 -outline-offset-1 outline-white/10" />
-                        <div>
-                            <h3 class="header-two-styling">
-                                Courtney Henry
-                            </h3>
-                            <p class="paragraph-styling">
-                                Designer
-                            </p>
-                        </div>
+                        <x-hall-of-fame-card
+                            pioneer="Courtney Henry"
+                            work="Designer">
+                        </x-hall-of-fame-card>
                     </div>
                 </li>
                 <li>
@@ -90,14 +68,10 @@
                         <img src="/images/GraceHopper.jpg"
                              alt=""
                              class="size-16 rounded-full outline-1 -outline-offset-1 outline-white/10" />
-                        <div>
-                            <h3 class="header-two-styling">
-                                Grace Hopper
-                            </h3>
-                            <p class="paragraph-styling">
-                                Computer Scientist, Mathematician, and US Navy Rear Admiral
-                            </p>
-                        </div>
+                        <x-hall-of-fame-card
+                            pioneer="Grace Hopper"
+                            work="Computer Scientist, Mathematician, and US Navy Rear Admiral">
+                        </x-hall-of-fame-card>
                     </div>
                 </li>
             </ul>
