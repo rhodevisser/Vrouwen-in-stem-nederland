@@ -1,6 +1,6 @@
 @props([
-    'pioneer' => 'Ada Lovelace',
-    'work' => 'First Computer Programmer'
+    'pioneer' => '',
+    'work' => ''
 ])
 
 <div class="flex items-center gap-x-6">

@@ -24,7 +24,9 @@
                             <img src="/images/Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png"
                                  alt=""
                                  class="size-16 rounded-full outline-1 -outline-offset-1 outline-white/10" />
-                            <x-hall-of-fame-card>
+                            <x-hall-of-fame-card
+                                pioneer="Ada Lovelace"
+                                work="First Computer Programmer">
                             </x-hall-of-fame-card>
                         </div>
                     </a>
