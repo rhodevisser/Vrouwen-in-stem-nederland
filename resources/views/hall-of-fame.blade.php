@@ -13,27 +13,6 @@
                         </a>
                     </li>
                 @endforeach
-
-
-
-
-
-
-
-
-
-
-{{--                <li>--}}
-{{--                    <div class="flex items-center gap-x-6">--}}
-{{--                        <img src="/images/GraceHopper.jpg"--}}
-{{--                             alt=""--}}
-{{--                             class="size-16 rounded-full outline-1 -outline-offset-1 outline-white/10" />--}}
-{{--                        <x-hall-of-fame-card--}}
-{{--                            pioneer="Grace Hopper"--}}
-{{--                            work="Computer Scientist, Mathematician, and US Navy Rear Admiral">--}}
-{{--                        </x-hall-of-fame-card>--}}
-{{--                    </div>--}}
-{{--                </li>--}}
             </ul>
         </div>
     </div>
