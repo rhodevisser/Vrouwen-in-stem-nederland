@@ -2,7 +2,7 @@
 **Hall of Fame & Kennisbank** *(Laatste update: Maart 2026)*
 
 ## 🌟 Over dit project
-Wat terwijl het leren programmeren begon als een mock-up eerbetoon aan Ada Lovelace, groeit nu uit tot hét centrale platform voor vrouwen in de Nederlandse STEM-sector.
+Wat terwijl het leren programmeren begon als een mock-up eerbetoon aan Ada Lovelace, groeit nu uit tot een centraal platform voor vrouwen in de Nederlandse STEM-sector.
 
 **Waarom?** Als nieuwkomer in de sector merkte ik dat er ontzettend veel waardevolle informatie, communities en initiatieven zijn, maar dat deze versnipperd zijn. Dit project is bedoeld om alles samen te brengen op één plek:
 - **De Kennisbank:** Een community-driven overzicht van alle Nederlandse (of in Nederland actieve) initiatieven die gericht zijn op vrouwen in tech. 
