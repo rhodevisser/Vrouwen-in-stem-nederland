@@ -13,7 +13,9 @@ return new class extends Migration
     {
         Schema::create('Kennisbank_items', function (Blueprint $table) {
             $table->id();
+            $table->text('title', 50);
             $table->timestamps();
+            $table->text('content');
         });
     }
 
